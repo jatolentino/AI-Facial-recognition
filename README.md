@@ -14,15 +14,15 @@ The goal of this project is to show up an application of a web app that provides
 ---
 ### In the Backend
 ```bash
-	virtualenv env
-	source env/bin/activate
-	pip install -r requirements.txt
-	python manage.py runserver
+virtualenv env
+source env/bin/activate
+pip install -r requirements.txt
+python manage.py runserver
 ```
 ### In the Frontend
 ```bash
-	npm i
-	npm start
+npm i
+npm start
 ```
 > Take in consideration that `npm i` takes some minutes.
 
