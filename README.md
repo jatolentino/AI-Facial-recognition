@@ -30,11 +30,11 @@ npm start
 ---
 ### Localhost sample
 The following image depicts the landing page
-<br />
+&nbsp;
 ![Project Image](https://github.com/jatolentino/AI-Facial-recognition/blob/main/Sample/Landing%20page.png)
 
 The following image shows a demo how it works
-<br />
+&nbsp;
 ![Project Image](https://github.com/jatolentino/AI-Facial-recognition/blob/main/Sample/Test%20upload%20image.png)
 
 
