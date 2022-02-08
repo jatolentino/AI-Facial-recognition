@@ -10,7 +10,6 @@ The goal of this project is to show up an application of a web app that provides
 
 ---
 
-
 ## Use it on your localhost
 ---
 ### In the Backend
@@ -27,25 +26,6 @@ The goal of this project is to show up an application of a web app that provides
 ```
 > Take in consideration that `npm i` takes some minutes.
 
-
-As an initial approach to simulate the drone navigation, the softwares Octave or Matlab have been utilized to provide trajectories and compute the equations of the state-space model. Due to the high non-linearities of the plant, a novel control method is yet to be tested and possibly compared against traditional control algorithms.  
-
-In the clip below, we conducted two test to demostrate that indeed, ML can enhance the tracking path, decreasing the overshoot at the very beginning.
-
-![Project Image](https://github.com/josetv91/Autonomous-UAV/blob/main/Videos/Autonomous%20UAV%20navigation.gif)
----
-## Table of Contents
-
-Feel free to download the software installer in the How-to-use section.
-
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [License](#license)
-- [Author's Info](#author-info)
-
----
-
 ## Description
 ---
 ### Localhost sample
@@ -55,6 +35,6 @@ The following image depicts the landing page
 The following image shows a demo how it works
 
 
-![Project Image](https://github.com/jatolentino/AI-Facial-recognition/blob/main/Sample/test%20upload%20image.png)
+![Project Image](https://github.com/jatolentino/AI-Facial-recognition/blob/main/Sample/Test%20upload%20image.png)
 
 
