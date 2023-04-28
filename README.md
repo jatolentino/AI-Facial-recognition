@@ -10,7 +10,6 @@ The goal of this project is to show up an application of a web app that provides
 
 ---
 
-
 ## Use it on your localhost
 ---
 ### In the Backend
