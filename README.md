@@ -7,6 +7,7 @@
 > The goal of this project is to show up an application of a web app that provides a service of face recognition using Artificial Intelligence (AI) and which is served through a website.
 ---
 
+
 ## Use it on your localhost
 ---
 ### In the Backend
