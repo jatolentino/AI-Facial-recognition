@@ -14,10 +14,10 @@ The goal of this project is to show up an application of a web app that provides
 ---
 ### In the Backend
 ```bash
-virtualenv env
-source env/bin/activate
+python -m venv env
+source env/Scripts/activate
 pip install -r requirements.txt
-python manage.py runserver
+python manage.py runserver 8081
 ```
 ### In the Frontend
 ```bash
