@@ -1,0 +1,35 @@
+*.pyc
+**/*.pyc
+**/__pycache__
+
+.DS_Store
+
+
+__pycache__/
+/.vscode/
+
+# coverage result
+.coverage
+/coverage/
+
+# pycharm
+.idea/
+
+# data
+*.dump
+
+
+
+
+# General
+/{{project_name}}-venv/
+/venv/
+/env/
+/output/
+/cache/
+boilerplate.zip
+
+
+.direnv
+.envrc
+.tool-versions
