@@ -1,4 +1,4 @@
-# AI Facial recognition
+⅘# AI Facial recognition
 ![Github All Releases](https://img.shields.io/github/downloads/jatolentino/AI-Facial-recognition/total?logo=GitHub&style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jatolentino/AI-Facial-recognition)
 ![GitHub language count](https://img.shields.io/github/languages/count/jatolentino/AI-Facial-recognition?color=success&logo=CodersRank&logoColor=%23FFFFFF)
@@ -6,6 +6,7 @@
 
 > The goal of this project is to show up an application of a web app that provides a service of face recognition using Artificial Intelligence (AI) and which is served through a website.
 ---
+
 
 ## Use it on your localhost
 ---
