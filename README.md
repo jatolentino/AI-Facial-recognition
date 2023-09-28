@@ -4,7 +4,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/jatolentino/AI-Facial-recognition?color=success&logo=CodersRank&logoColor=%23FFFFFF)
 [![version](https://img.shields.io/badge/version-1.1-red.svg)](//npmjs.com/package/AI-Facial-recognition)
 
-
 > The goal of this project is to show up an application of a web app that provides a service of face recognition using Artificial Intelligence (AI) and which is served through a website.
 > 
 ---
