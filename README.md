@@ -1,4 +1,4 @@
-⅘# AI Facial recognition
+## AI Facial recognition
 ![Github All Releases](https://img.shields.io/github/downloads/jatolentino/AI-Facial-recognition/total?logo=GitHub&style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jatolentino/AI-Facial-recognition)
 ![GitHub language count](https://img.shields.io/github/languages/count/jatolentino/AI-Facial-recognition?color=success&logo=CodersRank&logoColor=%23FFFFFF)
