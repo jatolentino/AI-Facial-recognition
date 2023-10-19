@@ -1,0 +1,29 @@
+node_modules
+build
+media
+static_root
+
+package-lock
+
+/.vscode/
+
+# coverage result
+.coverage
+/coverage/
+
+
+# npm
+node_modules/
+npm-debug.log
+
+# Webpack
+/frontend/bundles/*
+/frontend/webpack_bundles/*
+/webpack-stats.json
+
+# Sass
+.sass-cache
+*.map
+
+
+.tool-versions
