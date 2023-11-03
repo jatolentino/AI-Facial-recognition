@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="theme-color" content="#000000">
+
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+  <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.2/tailwind.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css">
+  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+  <title>RECOGNIZE</title>
+  <meta name="description" content="Facial Recognition with AI">
+  <script src="https://js.stripe.com/v3/"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://use.fontawesome.com/03f8a0ebd4.js"></script>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  
+  <style>
+    .form-select {
+      background-repeat: no-repeat;
+      background-position: right 0.5rem center;
+      background-size: 1.5em 1.5em;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .submit-button:disabled {
+      cursor: not-allowed;
+      background-color: #D1D5DB;
+      color: #111827;
+    }
+
+    .submit-button:disabled:hover {
+      background-color: #9CA3AF;
+    }
+
+    .credit-card {
+      max-width: 420px;
+      margin-top: 3rem;
+    }
+
+    @media only screen and (max-width: 420px) {
+      .credit-card .front {
+        font-size: 100%;
+        padding: 0 2rem;
+        bottom: 2rem !important;
+      }
+
+      .credit-card .front .number {
+        margin-bottom: 0.5rem !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <noscript>
+    You need to enable JavaScript to run this app.
+  </noscript>
+  <div id="root"></div>
+</body>
+
+</html>
