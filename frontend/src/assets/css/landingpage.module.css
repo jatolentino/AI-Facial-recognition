@@ -1,0 +1,50 @@
+.langingpage {
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    transition: 0.5;
+}
+
+.video-bg {
+    width: 100%;
+
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    object-fit: cover;
+    margin-Left: 0;
+}
+
+.bg-overlay {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.colored {
+    color: gray
+}
+
+.colored:hover {
+    color: black
+}
+
+.iconhover:hover {
+    fill: black;
+}
+
+.iconhoverinsta:hover {
+    stroke: black
+}
+
+.iconhoverfoot:hover {
+    fill: white;
+}
+
+.iconhoverinstafoot:hover {
+    stroke: white
+}
