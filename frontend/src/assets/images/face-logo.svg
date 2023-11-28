@@ -1,0 +1,30 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="17.5"
+height="17.5"
+className="w-5 h-5"
+imageRendering="optimizeQuality"
+shapeRendering="geometricPrecision"
+textRendering="geometricPrecision"
+version="1.1"
+viewBox="0 0 17.5 17.5"
+xmlSpace="preserve"
+>
+<rect
+    width="17.5"
+    height="17.5"
+    x="0"
+    y="0"
+    fill="#0d8cf1"
+    fillOpacity="1"
+    stroke="none"
+    strokeWidth="0.475"
+    ry="1.237"
+>
+</rect>
+<path
+    fill="#fff"
+    strokeWidth="0.453"
+    d="M12.104 10.936l.408-2.538H10.11V6.63c0-.725.272-1.269 1.36-1.269h1.178V3.05c-.635-.091-1.36-.182-1.995-.182-2.084 0-3.535 1.27-3.535 3.535v1.995H4.852v2.538h2.266v6.39a8.345 8.345 0 002.992 0v-6.39z"
+></path>
+</svg>
