@@ -18,7 +18,7 @@ import { cancelSubscriptionURL } from "../../constants";
 import { loadStripe } from '@stripe/stripe-js';
 import MyChart from "./Chart";
 import { stripePublishKey } from "../../constants";
-
+import { billingURL } from "../../constants";
 
 let present_month = new Date();
 let p_month = new Date();
@@ -145,7 +145,7 @@ class APIUsage extends React.Component {
             loading: true
         });
         authAxios
-            .get("http://127.0.0.1:8000/api/billing/")
+            .get(billingURL)
             .then(res => {
                 this.setState({
                     loading: false,
