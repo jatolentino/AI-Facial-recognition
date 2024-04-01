@@ -749,7 +749,7 @@ If you want to test the software asap, go for `6.1` and if you want to install e
 
 >**Note that on development, the parameter port of `REACT_APP_DEV_URL` (8000, according to the example) should match the output port of the command in `docker run  -p 8000:8080 --name recognizeBACK --env-file back.env recognizeback`, so that frontend can communicate with the backend locally :)**
 
-### 📚 6.2 Wihtout Docker
+### 📚 6.2 Without Docker
 #### 💻 6.2.1 Frontend Installation
 
    - Clone the repository and move to the root folder:
