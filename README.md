@@ -91,7 +91,7 @@ alt="JavaScript">
 <div align="center">
 
 
-![GiF-SHOP](./src/gifs/recognize-commercial-gif.gif)
+
 
 
 </div>
