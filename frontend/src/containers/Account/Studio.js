@@ -182,7 +182,7 @@ class Studio extends React.Component {
 
                                 <div className="space-x-5 mt-5">
                                     <button type="submit" className="bg-black font-bold hover:bg-gray-700 rounded-lg 
-                                px-16 py-3 text-gray-100 hover:shadow-xl transition duration-150 ">Analize</button>
+                                px-16 py-3 text-gray-100 hover:shadow-xl transition duration-150 ">Analyze</button>
                                     <a className="ui button" href={FaceIMG} download>
                                         <i aria-hidden="true" className="download icon" />
                                         Download test image

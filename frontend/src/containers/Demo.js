@@ -159,7 +159,7 @@ class Demo extends React.Component {
               />
               <div className="space-x-5 mt-5">
                 <button type="submit" className="bg-black font-bold hover:bg-gray-700 rounded-lg px-16 py-3 text-gray-100 hover:shadow-xl transition duration-150 ">
-                  Analize
+                  Analyze
                 </button>
                 {/* in order to download image, we must use an anchor tag */}
                 <a className="ui button" href={testFaceImage} download>
