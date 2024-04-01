@@ -91,10 +91,15 @@ alt="JavaScript">
 <div align="center">
 
 
+![recognize-commercial-gif](https://github.com/jatolentino/AI-Facial-recognition/assets/61167951/56b28d0b-e84e-4bb6-803b-e3ad10ec1b1e)
 
 
 
 </div>
+
+
+
+https://github.com/jatolentino/AI-Facial-recognition/assets/61167951/207a1f73-447d-4934-b58c-780f95491f83
 
 
 
