@@ -4,7 +4,6 @@
 <a href="https://recognize.joseatolentino.com/"><img src="logo.svg" width="90" /></a>
 <br>Recognize</h1>
 
-
 <h3 align="center">
     AI Facial Expression Recognition
     <br>
